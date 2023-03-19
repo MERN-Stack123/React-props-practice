@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Sofia+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+    margin: 60px;
+    margin-left: 462px;
+    width: 419px;
+    height: 394px;
+    box-shadow: 0.1px 0.1px 8px;
+    border: none;
+    border-color: white;
+    border-radius: 8px;
+}
+.card-top{
+    width: 419px;
+    height: 220px;
+    background-color: white;
+    border-radius: 8px;
+}
+img{
+    margin: 20px;
+    width: 375px;
+    height: 200px;
+    border-radius: 8px;
+}
+h2{
+    font-family: 'Rubik', sans-serif;
+    margin: 20px;
+    font-weight: 600px;
+}
+.bt1{
+    margin: 20px;
+}
+.card-bottom{
+    background-color: white;
+}
+.h{
+    margin:20px;
+    margin-right: 24%;
+    border: 1px solid grey;
+    opacity: 0.2;
+    text-align: center;
+}
+p{
+    display: unset;
+    margin-right: 20px;
+    margin-top: 24px;
+    font-family: sans-serif;
+}
+.price{
+    color: darkblue;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: large;
+}
+.price-off{
+    color: grey;
+    font-family: sans-serif;
+    font-size: large;
+}
+.discount{
+    color: white;
+    background-color: mediumaquamarine;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 8px;
+    opacity: 1.0;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.discount1{
+    color: white;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 8px;
+    opacity: 1.0;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: medium;
+}
